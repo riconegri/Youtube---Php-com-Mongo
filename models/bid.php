@@ -15,7 +15,7 @@ class bid {
      * api from janrain - attention
      * @var type strin 
      */
-    public $jan_api = '827871d43c9f49ba757db32ffb13c32087a721c7';
+    public $jan_api = 'asd827fet871d9f49ba7b32ffb13c32087a721c7';
 
     /**
      * error out from json
