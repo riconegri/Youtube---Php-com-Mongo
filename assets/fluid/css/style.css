@@ -1,0 +1,143 @@
+body {
+    font-family: verdana;
+    background-image: url(../img/stripes_2.gif);
+    background-repeat: repeat;
+    background-position: center top;
+    color: #eee;
+    text-align: center;
+    margin: auto;
+}
+input {
+    padding: 3px;
+    font-size: 114%;
+}
+a {
+    color: #fff;
+}
+h1, h2, h3, h4 {
+    font-family: georgia;
+    margin:0px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    color: #fff;
+}
+h1 {
+    font-family: georgia;
+}
+img {
+    border: 0;
+}
+div.workarea {
+    padding:10px;
+    float:left
+}
+div.video {
+    cursor: move;
+}
+ul.searchlist {
+    overflow: auto;
+    width: 330px;
+    height:230px;
+    background: #1A1A1A;
+    border: 1px solid gray;
+    list-style: none;
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+ul.draglist {
+    overflow: auto;
+    width: 330px;
+    height:390px;
+    background: #1A1A1A;
+    border: 1px solid gray;
+    list-style: none;
+    margin:0;
+    padding:0;
+    text-align: center;
+    overflow: none;
+}
+ul.draglist li {
+    padding:5px;
+}
+ul.draglist_alt {
+    position: relative;
+    width: 200px;
+    list-style: none;
+    margin:0;
+    padding:0;
+    padding-bottom:30px;
+}
+ul.draglist_alt li {
+    margin: 1px;
+    cursor: move;
+}
+ul.playlist {
+    overflow: auto;
+    width: 500px;
+    height:610px;
+    background: #1A1A1A;
+    border: 1px solid gray;
+    list-style: none;
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+ul.playlist li {
+    overflow: hidden;
+    float:left;
+    padding:5px;
+    cursor: move;
+    width: 140px;
+    height: 145px;
+}
+ul.playlistBottom {
+    overflow: auto;
+    width: 330px;
+    height:190px;
+    background: #1A1A1A;
+    border: 1px solid gray;
+    list-style: none;
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+ul.playlistBottom li {
+    overflow: hidden;
+    float:left;
+    padding:5px;
+    cursor: move;
+    height: 50px;
+    width: 70px;
+}
+ul.playlistBottom li img {
+    height: 47px;
+    width: 65px;
+}
+.draglist_small img {
+    position: relative;
+    padding-bottom:30px;
+}
+.draglist_small img {
+    height: 47px;
+    width: 65px;
+}
+.draglist_small li {
+    cursor: move;
+}
+li.list1 {
+    background-color: #D1E6EC;
+    border:1px solid #7EA6B2;
+}
+li.list2 {
+    background-color: #D8D4E2;
+    border:1px solid #6B4C86;
+}
+#ul3 img, #ul2 img, #ul1 img {
+    border: 3px solid #333;
+}
+#ytapiplayer {
+    float: right;
+    width: 320px;
+    height: 240px;
+}

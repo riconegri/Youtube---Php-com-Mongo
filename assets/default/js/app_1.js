@@ -1,0 +1,56 @@
+// API callback
+da= youtubeInit[1]({
+    "apiVersion":"2.1",
+    "data":{
+        "updated":"2012-05-01T17:19:46.970Z",
+        "totalItems":882,
+        "startIndex":1,
+        "itemsPerPage":50,
+        "items":[
+        {
+            "id":"cPYUo5P3jc0",
+            "uploaded":"2011-05-15T19:48:09.000Z",
+            "updated":"2012-04-22T15:41:17.000Z",
+            "uploader":"jimmypothead420",
+            "category":"Music",
+            "title":"TNT - Gata Maluca",
+            "description":"Sétimamúsica do CD Hot 20 do TNT AVISO: NÃO POSSUO NENHUM DIREITO DESSE VÍDEO! ESSES MESMOS DIREITOS PERTENCEM AOS SEUS RESPECTIVOS AUTORES E DISTRIBUIDORES. ESSE VÍDEO FOI FEITO APENAS PARA O ENTRETENIMENTO, SEM FINS LUCRATIVOS.",
+            "tags":["TNT","Hot","20","Gata","Maluca"],
+            "thumbnail":{
+                "sqDefault":"http://i.ytimg.com/vi/cPYUo5P3jc0/default.jpg",
+                "hqDefault":"http://i.ytimg.com/vi/cPYUo5P3jc0/hqdefault.jpg"
+            },
+            "player":{
+                "default":"http://www.youtube.com/watch?v=cPYUo5P3jc0&feature=youtube_gdata_player",
+                "mobile":"http://m.youtube.com/details?v=cPYUo5P3jc0"
+            },
+            "content":{
+                "5":"http://www.youtube.com/v/cPYUo5P3jc0?version=3&f=videos&app=youtube_gdata",
+                "1":"rtsp://v4.cache7.c.youtube.com/CiILENy73wIaGQnNjfeToxT2cBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+                "6":"rtsp://v3.cache6.c.youtube.com/CiILENy73wIaGQnNjfeToxT2cBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp"
+            },
+            "duration":221,
+            "rating":5.0,
+            "likeCount":"14",
+            "ratingCount":14,
+            "viewCount":7022,
+            "favoriteCount":10,
+            "commentCount":11,
+            "restrictions":[{
+                "type":"country",
+                "relationship":"deny",
+                "countries":"DE"
+            }],
+            "accessControl":{
+                "comment":"allowed",
+                "commentVote":"allowed",
+                "videoRespond":"moderated",
+                "rate":"allowed",
+                "embed":"allowed",
+                "list":"allowed",
+                "autoPlay":"allowed",
+                "syndicate":"allowed"
+            }
+        }]
+    }
+});
