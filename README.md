@@ -1,6 +1,6 @@
 interage
 ========
-# Teste de capacitação
+# App em PHP para vídeos do Youtube com MongoDB
 Aplicativo sobre PHP, para visualização e compartilhamento de vídeos do Youtube com Twitter.
 Todo a parte dinâmica foi feita do zero, uma estrutura com base na experiência MVC do CakePhp, exceto 2 classes estáticas Set(manusear arrays) e String(manusear textos).
 
@@ -69,10 +69,7 @@ Com uma frase resumiria a principal funcionalidade da aplicação quando logado
 * Permitir usuários do app compartilharem entre si, mandando mensagens, comentários, etc.
 
 ## Considerações finais
-Nesta área, todos os dias estamos aprendendo, e, num mero teste, descobri que:
-* Foi muito bom ter conhecido o Twitter Bootstrap
-* Sempre trabalhei com SVN, mas conhecer o git foi sensacional
-* Nunca pensei que conseguiria gerar um esboço de MVC, que, me parece funcional
+* MVC simples e funcional
 * O Janrain te ajuda no inicio desta mistura social, oferecendo vários atalhos.
 * Manter o estado da aplicação, não é mais uma idéia por palavras, e sim uma realidade
 
